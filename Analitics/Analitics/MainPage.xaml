@@ -100,6 +100,12 @@
                     Margin="10, 10, 10, 10"
                     TextColor="Black"
                     Padding="30">
+              <Button x:Name="Clear" Text="Clear" Clicked="Button_Clicked"
+                BackgroundColor="#8144D6"
+                        BorderRadius="25"
+                    Margin="10, 10, 10, 10"
+                    TextColor="Black"
+                    Padding="30">
             </Button>
         </StackLayout>
     </ScrollView>
